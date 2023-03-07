@@ -6,7 +6,7 @@ namespace DotnetProject1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Write");
+            Console.WriteLine("Write"); 
             Console.WriteLine("Write");
             Console.WriteLine("Write");
             Console.WriteLine("Write");
